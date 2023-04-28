@@ -1,0 +1,9 @@
+﻿  sanzi_game.c
+E:\VS\VS 项目\test.2023.3.31\test.2023.3.31\sanzi_game.c(5,2): warning C4013: “srand”未定义；假设外部返回 int
+E:\VS\VS 项目\test.2023.3.31\test.2023.3.31\sanzi_game.c(5,18): warning C4013: “time”未定义；假设外部返回 int
+E:\VS\VS 项目\test.2023.3.31\test.2023.3.31\sanzi_game.c(6,12): warning C4013: “rand”未定义；假设外部返回 int
+E:\VS\VS 项目\test.2023.3.31\test.2023.3.31\sanzi_game.c(8,2): warning C4013: “printf”未定义；假设外部返回 int
+E:\VS\VS 项目\test.2023.3.31\test.2023.3.31\sanzi_game.c(11,3): warning C4013: “scanf”未定义；假设外部返回 int
+  test331.c
+  正在生成代码...
+  test.2023.3.31.vcxproj -> E:\VS\VS 项目\test.2023.3.31\x64\Debug\test.2023.3.31.exe
